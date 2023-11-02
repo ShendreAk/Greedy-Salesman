@@ -26,7 +26,7 @@ Greedy Salesman is a web app which uses time series forecasting model at the bac
 * Download dataset: [Link](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
 * Exploratory data analysis.
 * Dashboard design for KPI and other parameter analysis.
-* Choosing roduct for time series sales forecasting: Furniture sales.
+* Choosing product for time series sales forecasting: Furniture sales.
 * Time series model testing: ARIMA, SARIMA, Auto-ARIMA, Fbprophet, Fbprophet with exogenous variable.
 * Model deployment using flask app and packaging using docker for efficient deployment.
 
