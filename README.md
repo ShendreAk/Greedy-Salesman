@@ -1,3 +1,3 @@
 # Greedy-Salesman
 # App-Functionality
-![](api/static/App_functionality.gif)
+![](api/static/App-functionality.gif)
