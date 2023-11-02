@@ -38,7 +38,7 @@ Created using Tableau: [Link](https://public.tableau.com/app/profile/akshay.shen
 ![](api/static/DashboardImage.png)
 
 # Tools N Tech
-    Front-End: HTML, CSS
+    Front-End: HTML, CSS, Tableau (Data visualization)
     Back-End: Flask, Docker
     IDE: Jupyter notebook, visual studio code, google collab
 
