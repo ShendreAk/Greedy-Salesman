@@ -35,7 +35,7 @@ Created using Tableau: [Link](https://public.tableau.com/app/profile/akshay.shen
 * Click on the link for dynamic dashboard. Filter the parameters and features using menu button on top-right corner of dashboard.
 * Try switching to lighter moder of dasboard by clicking on bulb icon next to the menu button.
 ## screenshot: 
-![](api/static/DashboardImage.png)
+![](static/DashboardImage.png)
 
 # Tools N Tech
     Front-End: HTML, CSS, Tableau (Data visualization)
