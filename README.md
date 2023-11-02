@@ -42,4 +42,7 @@ Created using Tableau: [Link](https://public.tableau.com/app/profile/akshay.shen
     Back-End: Flask, Docker
     IDE: Jupyter notebook, visual studio code, google collab
 
+# To connect:
+* [LinkedIn](https://www.linkedin.com/in/akshay-shendre-a5aa8315a/)
+
 
