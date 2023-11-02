@@ -1,9 +1,8 @@
 pandas
-numpy
+# numpy
 Flask
 prophet
 statsmodels
 scikit-learn
 matplotlib
 seaborn
-# -e .
