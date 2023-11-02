@@ -1,7 +1,7 @@
 import flask
 import numpy as np
 from cfg import models as model_list
-from flask import jsonify, render_template, request
+from flask import  render_template, request
 from utils import SARIMAPredictions, FBPredictions
 
 models = model_list.models
@@ -24,14 +24,16 @@ def predict():
         model = FBPredictions(request.form.get("model_name"))
         pred = model.predict(request.form.get("date"))
         return render_template("fbprophet.html", DatePicked=request.form.get("date"), 
-                               Date=model.get_next_date(),
-                               price= np.round(list(pred['yhat']),2))
+                            Date=model.get_next_date(),
+                            price= np.round(list(pred['yhat']),2))
     else:
         model = SARIMAPredictions(request.form.get("model_name"))
         pred = model.predict(request.form.get("date"))
         return render_template("Sarima.html", DatePicked=request.form.get("date"), 
-                               Date=model.get_next_date(),
-                               price= np.round(list(pred),2))
+                            Date=model.get_next_date(),
+                            price= np.round(list(pred),2))
+    
+
 
 
 if __name__ == "__main__":
