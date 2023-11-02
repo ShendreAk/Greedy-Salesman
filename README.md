@@ -28,7 +28,7 @@ Greedy Salesman is a web app which uses time series forecasting model at the bac
 * Dashboard design for KPI and other parameter analysis.
 * Choosing roduct for time series sales forecasting: Furniture sales.
 * Time series model testing: ARIMA, SARIMA, Auto-ARIMA, Fbprophet, Fbprophet with exogenous variable.
-* Model deployment using ### flask app and packaging using ### docker for efficient deployment.
+* Model deployment using flask app and packaging using docker for efficient deployment.
 
 # Dashboard
 Created using Tableau: [Link](https://public.tableau.com/app/profile/akshay.shendre1485/viz/Salesdashboard_16985927387110/Dashboard_Sales_overview?publish=yes).
@@ -36,4 +36,10 @@ Created using Tableau: [Link](https://public.tableau.com/app/profile/akshay.shen
 * Try switching to lighter moder of dasboard by clicking on bulb icon next to the menu button.
 ## screenshot: 
 ![](api/static/DashboardImage.png)
+
+# Tools N Tech
+    Front-End: HTML, CSS
+    Back-End: Flask, Docker
+    IDE: Jupyter notebook, visual studio code, google collab
+
 
